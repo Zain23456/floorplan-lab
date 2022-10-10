@@ -1,8 +1,8 @@
 function Sink() {
   return(
-    <>
-      <p>Sink</p>
-    </>
+    <div>
+      Sink
+    </div>
   )
 }
 

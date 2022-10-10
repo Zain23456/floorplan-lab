@@ -1,14 +1,10 @@
-
 import './App.css';
+import Kitchen from './Kitchen';
 
 function App() {
   return (
     <>
       <Kitchen />
-      <Livingroom />
-      <Bedroom />
-      <Bath />
-  
     </>
   );
 }
