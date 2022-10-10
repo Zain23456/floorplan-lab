@@ -4,7 +4,7 @@ import Sink from "./Sink"
 function Kitchen() {
   return(
     <div>
-      <p>Kitchen</p>
+      Kitchen
       <Oven />
       <Sink />
     </div>
