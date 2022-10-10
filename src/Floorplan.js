@@ -4,7 +4,7 @@ import Bedroom from './Bedroom';
 import Kitchen from './Kitchen';
 import LivingRoom from './LivingRoom';
 
-function App() {
+function Floorplan() {
   return (
     <div>
       <Bedroom bedNum={1} />
@@ -18,4 +18,4 @@ function App() {
   );
 }
 
-export default App;
+export default Floorplan;
