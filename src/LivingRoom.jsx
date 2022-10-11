@@ -1,6 +1,6 @@
 function LivingRoom() {
   return(
-    <div>
+    <div id='living-room'>
       LivingRoom
     </div>
   )

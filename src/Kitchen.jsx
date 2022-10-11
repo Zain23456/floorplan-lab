@@ -3,10 +3,14 @@ import Sink from "./Sink"
 
 function Kitchen() {
   return(
-    <div>
-      Kitchen
-      <Oven />
-      <Sink />
+    <div className='stacked' id='kitchen'>
+      <div>
+        <Oven />
+        <Sink />
+      </div>
+      <div>
+        Kitchen
+      </div>
     </div>
   )
 }
